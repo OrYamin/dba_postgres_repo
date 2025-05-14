@@ -1,0 +1,52 @@
+{
+  "Column": [
+    {
+      "attcacheoff": -1,
+      "attcollation": null,
+      "attdefault": null,
+      "attfdwoptions": null,
+      "attidentity": "\u0000",
+      "attislocal": true,
+      "attlen": 8,
+      "attmissingval": null,
+      "attname": "id",
+      "attndims": 0,
+      "attnotnull": false,
+      "attnum": 1,
+      "attoptions": null,
+      "attstorage": "p",
+      "atttypid": "bigint",
+      "atttypmod": -1,
+      "kind": "r",
+      "name": "my_table",
+      "schema": "public"
+    },
+    {
+      "attcacheoff": -1,
+      "attcollation": null,
+      "attdefault": null,
+      "attfdwoptions": null,
+      "attidentity": "\u0000",
+      "attislocal": true,
+      "attlen": -1,
+      "attmissingval": null,
+      "attname": "name",
+      "attndims": 1,
+      "attnotnull": false,
+      "attnum": 2,
+      "attoptions": null,
+      "attstorage": "x",
+      "atttypid": "char[]",
+      "atttypmod": -1,
+      "kind": "r",
+      "name": "my_table",
+      "schema": "public"
+    }
+  ],
+  "Comments": [],
+  "Constraints": [],
+  "Indexes": [],
+  "Inherites": [],
+  "Rewrite": [],
+  "Triggers": []
+}
